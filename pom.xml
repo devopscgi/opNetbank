@@ -38,7 +38,7 @@
 				<configuration>
 					<includes>
 						<!-- <include>**/${testGroup}/*Test.java</include> -->
-						<include>com/cgi/netbanking/*Test.java</include>
+						<include>com/cgi/Netbanking/Netbanking/*Test.java</include>
 					</includes>
 				</configuration>
 			</plugin>
